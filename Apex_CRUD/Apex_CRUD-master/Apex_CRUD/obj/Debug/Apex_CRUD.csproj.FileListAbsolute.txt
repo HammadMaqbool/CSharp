@@ -1,0 +1,9 @@
+c:\users\ccs\documents\visual studio 2013\Projects\Apex_CRUD\Apex_CRUD\bin\Debug\Apex_CRUD.exe.config
+c:\users\ccs\documents\visual studio 2013\Projects\Apex_CRUD\Apex_CRUD\bin\Debug\Apex_CRUD.exe
+c:\users\ccs\documents\visual studio 2013\Projects\Apex_CRUD\Apex_CRUD\bin\Debug\Apex_CRUD.pdb
+c:\users\ccs\documents\visual studio 2013\Projects\Apex_CRUD\Apex_CRUD\obj\Debug\Apex_CRUD.csprojResolveAssemblyReference.cache
+c:\users\ccs\documents\visual studio 2013\Projects\Apex_CRUD\Apex_CRUD\obj\Debug\Apex_CRUD.Form1.resources
+c:\users\ccs\documents\visual studio 2013\Projects\Apex_CRUD\Apex_CRUD\obj\Debug\Apex_CRUD.Properties.Resources.resources
+c:\users\ccs\documents\visual studio 2013\Projects\Apex_CRUD\Apex_CRUD\obj\Debug\Apex_CRUD.csproj.GenerateResource.Cache
+c:\users\ccs\documents\visual studio 2013\Projects\Apex_CRUD\Apex_CRUD\obj\Debug\Apex_CRUD.exe
+c:\users\ccs\documents\visual studio 2013\Projects\Apex_CRUD\Apex_CRUD\obj\Debug\Apex_CRUD.pdb

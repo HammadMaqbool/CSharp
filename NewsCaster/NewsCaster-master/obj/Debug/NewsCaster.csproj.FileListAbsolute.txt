@@ -1,0 +1,14 @@
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\MultiUserDesktop\NewsCaster\NewsCaster\bin\Debug\NewsCaster.exe.config
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\MultiUserDesktop\NewsCaster\NewsCaster\bin\Debug\NewsCaster.exe
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\MultiUserDesktop\NewsCaster\NewsCaster\bin\Debug\NewsCaster.pdb
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\MultiUserDesktop\NewsCaster\NewsCaster\obj\Debug\NewsCaster.Properties.Resources.resources
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\MultiUserDesktop\NewsCaster\NewsCaster\obj\Debug\NewsCaster.csproj.GenerateResource.Cache
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\MultiUserDesktop\NewsCaster\NewsCaster\obj\Debug\NewsCaster.exe
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\MultiUserDesktop\NewsCaster\NewsCaster\obj\Debug\NewsCaster.pdb
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\MultiUserDesktop\NewsCaster\NewsCaster\bin\Debug\NewsAPI.dll
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\MultiUserDesktop\NewsCaster\NewsCaster\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\MultiUserDesktop\NewsCaster\NewsCaster\bin\Debug\NewsAPI.xml
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\MultiUserDesktop\NewsCaster\NewsCaster\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\MultiUserDesktop\NewsCaster\NewsCaster\obj\Debug\NewsCaster.Form1.resources
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\MultiUserDesktop\NewsCaster\NewsCaster\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\MultiUserDesktop\NewsCaster\NewsCaster\obj\Debug\NewsCaster.csprojResolveAssemblyReference.cache
